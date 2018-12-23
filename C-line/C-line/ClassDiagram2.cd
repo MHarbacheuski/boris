@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="stabilitron" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAgAAACAAABAAAAAAYAgCFAAAIAAAIAgAAAAAAA=</HashCode>
+      <FileName>stabilitron.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="semiconductor" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hgAIIIAAAAAAACFAACAAIQAgAIAQAAAAEAAgAAAIAgA=</HashCode>
+      <FileName>semiconductor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileException">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputException">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAEAAAAAAAAQAAAAAAAAIAAAA=</HashCode>
+      <FileName>InputException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diod" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAIAAACAAAIABAAAAAAQAgAAAIgAAAAAAgAAAAAAA=</HashCode>
+      <FileName>diod.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dioprotective" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAABAgAAABAAAAAAQAgEAEAAQAIgAAgAABAAAA=</HashCode>
+      <FileName>dioprotective.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyException" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAQAAAAAAAIAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator&lt;T&gt;" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEAIAAAAAAQAEAAwAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Ring.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ring&lt;T&gt;" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAASAAgAAAAABAAAAAAQgAAAAAAADAAAIAACQAA=</HashCode>
+      <FileName>Ring.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="specifications" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAIAAIgAAAAgDAAAAAAQAgEAAAAAAAAAAgAAAQAAE=</HashCode>
+      <FileName>specifications.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diobridge" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAIAAAAAAAAABAAQAAASAgAAAAAAEAAAAgABAUAEA=</HashCode>
+      <FileName>diobridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diopulse" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAAAkAABAAAIAAQAgBAAAAAAAAAAgAgAAAAA=</HashCode>
+      <FileName>diopulse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
